@@ -20,7 +20,7 @@ The project is simulated and tested using **Proteus** and programmed with **Mikr
 ## 📂 Project Structure
 ```bash
 .
-├── Multimeter\Proteus      # Complete Proteus simulation project
+├── Multimeter\Proteus      #  Proteus simulation project
 ├── Multimeter\MC       # Source code written in MikroC for PIC Pro
 ├── Multimeter\Photos          # Schematic, PCB layout, and 3D design images
 └── README.md            # Project documentation
